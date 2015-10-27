@@ -2,6 +2,7 @@ pinyin.py
 =========
 
 汉字转拼音,With Python
+添加python3支持
 
 
 Example:
